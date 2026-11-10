@@ -1,7 +1,8 @@
 package com.example.testclient;
 
 import com.example.testclient.gui.ClickGui;
-import com.example.testclient.modules.*;
+import com.example.testclient.modules.Module;
+import com.example.testclient.modules.ModuleManager;
 import com.mojang.blaze3d.platform.InputConstants;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
